@@ -1,0 +1,47 @@
+body {
+  background-color: #68778d;
+  font-family: outfit;
+}
+
+.main-con {
+  width: 320px;
+  background-color: #d6e2f0;
+  padding: 16px;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 50px;
+  padding-bottom: 40px;
+}
+.qr-code {
+  width: 320px;
+  border-radius: 10px;
+  margin-bottom: 24px;
+}
+
+.text-con {
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 22px;
+  margin-top: 0;
+  text-align: center;
+}
+
+p {
+  font-size: 15px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #68778d;
+}
+
+footer{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
